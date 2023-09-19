@@ -16,6 +16,8 @@ Digital image forgery detection is a critical task in the field of image forensi
 # Introduction
 This repository contains the implementation and research findings of a comprehensive framework for detecting digital image forgeries using Error Level Analysis (ELA) in conjunction with prominent Convolutional Neural Network (CNN) architectures. Image forgery detection is a critical task in image forensics, and our approach combines the strengths of ELA and CNNs to achieve accurate and efficient forgery detection.
 
+<img width="517" alt="vgg16cm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/00862f75-3ded-4a45-b4eb-8c367f890b25">
+
 # Key Features
 * Integration of Error Level Analysis (ELA) with prominent CNN architectures.
 * Comparison between ELA and patch-level feature extraction techniques.
