@@ -54,20 +54,23 @@ Error Level Analysis (ELA) is a forensic technique used to detect digital image 
 ## VGG19 Confusion Matrix
 <img width=50% height=50% alt="vgg19cm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/e74ec23d-033b-48f3-a4fb-8d0c5dcdd974">
 
-## ResNet Confusion Matrix
+## ResNet-50 Confusion Matrix
 <img width=50% height=50% alt="rescm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/e9a316b2-de87-44ee-aade-868ffb8b27ca">
 
 ## Xcepion Confusion Matrix
 <img width=50% height=50% alt="xccm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/a6fd447e-fb3e-4e60-8015-0c600b0e77d9">
 
+## Accuracy and Loss Metrics for VGG16
 <img width=50% height=50% alt="vgg16ac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/ec72dd85-4961-4d76-aaf2-4cbc91a00f21">
 
+## Accuracy and Loss Metrics for VGG19
 <img width=50% height=50% alt="vgg19ac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/3c89c97b-05c2-48a0-869e-7c451785502f">
 
+## Accuracy and Loss Metrics for ResNet-50
 <img width=50% height=50% alt="resac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/00b2ca23-5c60-44a2-94c0-8b335259622d">
 
+## Accuracy and Loss Metrics for Xception
 <img width=50% height=50% alt="xcac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/b379cb2a-5150-4232-b280-867a74732264">
-
 
 
 Our research findings reveal essential insights into the effectiveness of our proposed framework for digital image forgery detection:
