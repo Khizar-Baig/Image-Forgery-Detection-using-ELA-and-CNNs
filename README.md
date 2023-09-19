@@ -62,7 +62,7 @@ Error Level Analysis (ELA) is a forensic technique used to detect digital image 
 
 <img alt="resac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/00b2ca23-5c60-44a2-94c0-8b335259622d">
 
-<img width = 80 alt="xcac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/b379cb2a-5150-4232-b280-867a74732264">
+<img width = 60 alt="xcac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/b379cb2a-5150-4232-b280-867a74732264">
 
 
 
