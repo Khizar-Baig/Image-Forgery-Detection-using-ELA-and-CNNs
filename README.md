@@ -48,12 +48,16 @@ Error Level Analysis (ELA) is a forensic technique used to detect digital image 
 
 # Result Analysis
 
-<img width=50% height=50% alt="vgg16cm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/af3414c2-8c02-4ffc-bfce-b87082179b80">
+## VGG16 Confusion Matrix
+<img width=50% height=50% alt="vgg16cm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/af3414c2-8c02-4ffc-bfce-b87082179b80" > 
 
+## VGG19 Confusion Matrix
 <img width=50% height=50% alt="vgg19cm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/e74ec23d-033b-48f3-a4fb-8d0c5dcdd974">
 
+## ResNet Confusion Matrix
 <img width=50% height=50% alt="rescm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/e9a316b2-de87-44ee-aade-868ffb8b27ca">
 
+## Xcepion Confusion Matrix
 <img width=50% height=50% alt="xccm" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/a6fd447e-fb3e-4e60-8015-0c600b0e77d9">
 
 <img width=50% height=50% alt="vgg16ac" src="https://github.com/Khizar-Baig/Image-Forgery-Detection-through-Error-Level-Analysis-and-Convolutional-Neural-Networks/assets/59732957/ec72dd85-4961-4d76-aaf2-4cbc91a00f21">
